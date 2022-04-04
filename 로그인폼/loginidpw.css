@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    border: none;
+}
+
+#logo {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin-top: 10px;
+    display: block; 
+    margin: 0px auto;
+}
+
+body {
+    margin: 0;
+    background-color: white;
+}
+
+h3 {
+    font-family: 'hanna', sans-serif;
+    color: #ab1e22;
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.login-form {
+    background-color: beige;
+    width: 380px;
+    padding: 80px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.text-field {
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    flex-direction :row-reverse;
+    
+}
+
+.btn {
+    width: 85%;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 14px;
+    color: white;
+    background-color: pink;
+    border: none;
+}
+
+.text-one{
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 5px;
+    border: none;
+    margin-bottom: 10px;
+    width: 80px;
+}
+
